@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hi 👋, Welcome </h1>
 <h2 align="center"> Let's build amazing things together! </h2>
-<h1 align="center"> 🖥️ <~🐛~~🧑🏽‍💻 </h1>
+<h1 align="center"> 🌏<~🐛~~🧑🏽‍💻 </h1>
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
